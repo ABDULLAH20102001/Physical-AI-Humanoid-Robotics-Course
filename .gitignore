@@ -1,0 +1,10 @@
+*.log
+npm-debug.log*
+.yarn/logs/
+.yarn/versions/
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+*.local
